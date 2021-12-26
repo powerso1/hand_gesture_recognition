@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/duc/Python/Hand-Gesture-Recognition-Using-Background-Elllimination-and-Convolution-Neural-Network/TrainedModel/GestureRecogModel.tfl"
+all_model_checkpoint_paths: "/home/duc/Python/Hand-Gesture-Recognition-Using-Background-Elllimination-and-Convolution-Neural-Network/TrainedModel/GestureRecogModel.tfl"
